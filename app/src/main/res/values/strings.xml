@@ -94,5 +94,26 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
-    <string name="bear_text">Björnar (Ursidae) är en familj av större rovdjur och som idag omfattar åtta arter som förekommer över stora delar av norra och södra halvklotet. Björnar lever i Eurasien, Nord- och Sydamerika och de fanns tidigare även i norra Afrika. Arterna är främst allätare med undantag av jättepandan som huvudsakligen lever av bambuskott och isbjörnen som har kött som huvudföda.</string>
+    <string name="bear_text">
+
+        "Björnar (Ursidae) är en familj av större rovdjur och som idag omfattar åtta arter som förekommer över stora delar av norra och södra halvklotet. Björnar lever i Eurasien, Nord- och Sydamerika och de fanns tidigare även i norra Afrika. Arterna är främst allätare med undantag av jättepandan som huvudsakligen lever av bambuskott och isbjörnen som har kött som huvudföda.\n\n"
+
+        "Har du tur kan du få syn på björn, järv, lo eller någon av de ovanligt storvuxna älgarna. Älgarna vandrar ut ur Sarek under höstvintern. Djuren i Sarek rör sig ofta i dalgångarna, som går som pulsådror genom det högalpina landskapet.\n\n"
+
+        "Att Sarek också är renarnas land märks på namnen. Sarvesvágge som ansluter till Ráhpavuobme (Rapadalen) betyder sarvdalen. Guohpervágge betyder klövdalen. I Guhkesvágge, "den långa dalen" korsar renstigarna varandra på de urgamla flyttlederna som går genom dalen.\n\n"
+
+        "I de frodiga björkskogarna hittar man lövsångare, bergfink, gulärla, blåhake och svartvit flugsnappare. I småsjöarna simmar kricka, vigg och annan småfågel och högre upp, på fjällhedarna, hörs lappsparv, ljungpipare, fjällpipare och ripor. I Sarek finns också många rovfåglar som kungsörn, fjällvråk och stenfalk."
+    </string>
+    <string name="geo_text">Man kan säga att det är glaciärerna som har skurit ut Sarek och gjort det till vad det är i dag. Glaciärerna har skrapat fram de skarpa kammarna och topparna i Sarek. Deras ständiga rörelse producerar bergmjöl som sedan transporteras bort av vattnet. Utan glaciärerna i Sarek skulle inte heller det kända Ráhpaäno suorgudahka, Lájtávrredeltat, finnas.</string>
+    <string name="greenery_text">På kalfjällen växer lavar, mossor, dvärgvide, gräs och örter. I de djupare dalgångerna finns fjällbjörksskogar med ängar med smörboll, nordisk stormhatt och midsommarblomster och på fjällsidorna kan blåbär, dvärgbjörk, vide och en växa.</string>
+    <string name="nature_text">
+        "Tre grundläggande förutsättningar är nödvändiga för friluftsliv: tillgång, tillgänglighet och kvalitet. Ett naturområde som ligger nära, är tillgängligt och har hög kvalitet har störst möjligheter att främja friluftsliv i vardagen.\n\n"
+
+        "Oklarheter om vad som krävs (lagstiftning) och förväntas (mål) samt komplex ansvarsfördelning medför att friluftslivet ofta blir nedprioriterat inom samhällsplanering och markanvändning. Detta har stor betydelse för tillgången till natur som är attraktiv för friluftsliv."
+    </string>
+    <string name="sapmi_text">
+        "Sápmi sträcker sig över hela Nordkalotten samt en stor del av Skandinaviska halvön. Området omfattar delar av Sverige, Norge, Finland och Kolahalvön i Ryssland. Området är totalt ungefär 388 350 km² stort och har en befolkning på totalt 2 317 159 invånare. Antalet samer i området är svåruppskattat, men Samisk informationscentrum uppger att antalet samer i Sápmi är cirka 80 000.\n\n"
+
+        "Det samiska områdets utbredning i Sverige har länge ansetts vara begränsat till Norrlands inland men numera inkluderas vanligen även hela eller delar av Norrlands kustland. Det förekommer även att svenska Sápmi anses sträcka sig ned i Mellansverige. Den sistnämnda uppfattningen baseras på att skogssamer och sockenlappar under historisk tid levt så långt söderut som i Västmanland, parallellt och i samspel med bondebefolkningen."
+    </string>
 </resources>
