@@ -11,10 +11,15 @@ class TestActivity : AppCompatActivity() {
         setContentView(R.layout.activity_test)
 
         var articleTextContent = intent.getStringExtra(EXTRA_MESSAGE)
+        var articleHeading = intent.getStringExtra(EXTRA_HEADING)
         var imageSource = intent.getStringExtra(EXTRA_IMAGE_SOURCE)
 
         var textView = findViewById<TextView>(R.id.textView2).apply {
             text = articleTextContent
+        }
+
+        var textViewSecond = findViewById<TextView>(R.id.textView3).apply {
+            text = articleHeading
         }
 
         var imageView = findViewById<ImageView>(R.id.imageView2).apply {

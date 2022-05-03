@@ -45,7 +45,7 @@
                     android:layout_gravity="center_vertical|center_horizontal"
                     android:layout_marginTop="0dp"
                     android:layout_marginBottom="0dp"
-                    android:text="Björnen och hans vänner"
+                    android:text="@string/bear_heading"
                     android:textColor="@color/white"
                     android:textSize="25sp"
                     android:textStyle="bold" />
@@ -85,7 +85,7 @@
                     android:layout_gravity="center_vertical|center_horizontal"
                     android:layout_marginTop="0dp"
                     android:layout_marginBottom="0dp"
-                    android:text="Stock och sten i Sarek"
+                    android:text="@string/geo_heading"
                     android:textColor="@color/white"
                     android:textSize="25sp"
                     android:textStyle="bold" />
@@ -125,7 +125,7 @@
                     android:layout_gravity="center_vertical|center_horizontal"
                     android:layout_marginTop="0dp"
                     android:layout_marginBottom="0dp"
-                    android:text="Gröna, sköna Lappland"
+                    android:text="@string/green_heading"
                     android:textColor="@color/white"
                     android:textSize="25sp"
                     android:textStyle="bold" />
@@ -165,7 +165,7 @@
                     android:layout_gravity="center_vertical|center_horizontal"
                     android:layout_marginTop="0dp"
                     android:layout_marginBottom="0dp"
-                    android:text="Naturvård"
+                    android:text="@string/nature_heading"
                     android:textColor="@color/white"
                     android:textSize="25sp"
                     android:textStyle="bold" />
@@ -205,7 +205,7 @@
                     android:layout_gravity="center_vertical|center_horizontal"
                     android:layout_marginTop="0dp"
                     android:layout_marginBottom="0dp"
-                    android:text="Sápmi, Sábme, Sábmie, Saepmie"
+                    android:text="@string/sami_heading"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:textSize="25sp"

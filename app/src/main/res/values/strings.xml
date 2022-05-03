@@ -3,6 +3,11 @@
     <string name="startpage_button">Start</string>
     <string name="startpage_background_image">Ren</string>
     <string name="startpage_welcome">Välkommen till Sarek</string>
+    <string name="bear_heading">Björnen och hans vänner</string>
+    <string name="geo_heading">Stock och sten i Sarek</string>
+    <string name="green_heading">Gröna, sköna Lappland</string>
+    <string name="nature_heading">Naturvård</string>
+    <string name="sami_heading">Sápmi, Sábme, Sábmie, Saepmie</string>
     <string name="title_activity_article">ArticleActivity</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
@@ -95,7 +100,6 @@
     </string>
     <string name="action_settings">Settings</string>
     <string name="bear_text">
-
         "Björnar (Ursidae) är en familj av större rovdjur och som idag omfattar åtta arter som förekommer över stora delar av norra och södra halvklotet. Björnar lever i Eurasien, Nord- och Sydamerika och de fanns tidigare även i norra Afrika. Arterna är främst allätare med undantag av jättepandan som huvudsakligen lever av bambuskott och isbjörnen som har kött som huvudföda.\n\n"
 
         "Har du tur kan du få syn på björn, järv, lo eller någon av de ovanligt storvuxna älgarna. Älgarna vandrar ut ur Sarek under höstvintern. Djuren i Sarek rör sig ofta i dalgångarna, som går som pulsådror genom det högalpina landskapet.\n\n"
