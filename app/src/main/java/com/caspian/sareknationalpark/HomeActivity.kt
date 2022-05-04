@@ -23,7 +23,6 @@ class HomeActivity : AppCompatActivity() {
         var articleTextContent = getString(R.string.bear_text)
         var articleHeading = getString(R.string.bear_heading)
         var readMoreText = getString(R.string.read_more_green)
-        var clickAction = "textGreen"
         var intent = Intent(this, TestActivity::class.java).apply {
             putExtra(EXTRA_MESSAGE, articleTextContent)
             putExtra(EXTRA_IMAGE_SOURCE, imageSource)

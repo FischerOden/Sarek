@@ -52,9 +52,15 @@ class TestActivity : AppCompatActivity() {
                 setImageResource(R.drawable.greenerylapland)
             }
         }
+
+        var cardView = findViewById<CardView>(R.id.cardView7).apply {
+            if (readMoreText != getString(R.string.read_more_green)) {
+                layoutParams.height = 0
+            }
+        }
     }
 
-    fun textGreen(view: View) {
+    fun cardReadMore(view: View) {
         var imageSource = "greenerylapland"
         var articleTextContent = getString(R.string.greenery_text)
         var articleHeading = getString(R.string.green_heading)
