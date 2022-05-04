@@ -8,6 +8,8 @@ import android.view.View
 const val EXTRA_MESSAGE = "com.caspian.sareknationalpark.MESSAGE"
 const val EXTRA_IMAGE_SOURCE = "com.caspian.sareknationalpark.IMAGE_SOURCE"
 const val EXTRA_HEADING = "com.caspian.sareknationalpark.HEADING"
+const val EXTRA_IMAGE_SOURCE_READ_MORE = "com.caspian.sareknationalpark.IMAGE_SOURCE_READ_MORE"
+const val EXTRA_TEXT_READ_MORE = "com.caspian.sareknationalpark.TEXT_READ_MORE"
 
 class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,12 +19,17 @@ class HomeActivity : AppCompatActivity() {
 
     fun textBear(view: View) {
         var imageSource = "bear"
+        var imageSourceReadMore = "greenerylapland"
         var articleTextContent = getString(R.string.bear_text)
         var articleHeading = getString(R.string.bear_heading)
+        var readMoreText = getString(R.string.read_more_green)
+        var clickAction = "textGreen"
         var intent = Intent(this, TestActivity::class.java).apply {
             putExtra(EXTRA_MESSAGE, articleTextContent)
             putExtra(EXTRA_IMAGE_SOURCE, imageSource)
             putExtra(EXTRA_HEADING, articleHeading)
+            putExtra(EXTRA_IMAGE_SOURCE_READ_MORE, imageSourceReadMore)
+            putExtra(EXTRA_TEXT_READ_MORE, readMoreText)
         }
         startActivity(intent)
     }

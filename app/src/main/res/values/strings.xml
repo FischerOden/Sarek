@@ -8,7 +8,6 @@
     <string name="green_heading">Gröna, sköna Lappland</string>
     <string name="nature_heading">Naturvård</string>
     <string name="sami_heading">Sápmi, Sábme, Sábmie, Saepmie</string>
-    <string name="title_activity_article">ArticleActivity</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
@@ -120,4 +119,5 @@
 
         "Det samiska områdets utbredning i Sverige har länge ansetts vara begränsat till Norrlands inland men numera inkluderas vanligen även hela eller delar av Norrlands kustland. Det förekommer även att svenska Sápmi anses sträcka sig ned i Mellansverige. Den sistnämnda uppfattningen baseras på att skogssamer och sockenlappar under historisk tid levt så långt söderut som i Västmanland, parallellt och i samspel med bondebefolkningen."
     </string>
+    <string name="read_more_green">Läs mer om flora i Sarek</string>
 </resources>

@@ -17,11 +17,6 @@
                 android:value=".HomeActivity"/>
         </activity>
         <activity
-            android:name=".ArticleActivity"
-            android:exported="false"
-            android:label="@string/title_activity_article"
-            android:theme="@style/Theme.SarekNationalpark.NoActionBar" />
-        <activity
             android:name=".HomeActivity"
             android:exported="false" />
         <activity
