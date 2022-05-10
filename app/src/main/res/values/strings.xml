@@ -107,12 +107,38 @@
 
         "I de frodiga björkskogarna hittar man lövsångare, bergfink, gulärla, blåhake och svartvit flugsnappare. I småsjöarna simmar kricka, vigg och annan småfågel och högre upp, på fjällhedarna, hörs lappsparv, ljungpipare, fjällpipare och ripor. I Sarek finns också många rovfåglar som kungsörn, fjällvråk och stenfalk."
     </string>
-    <string name="geo_text">Man kan säga att det är glaciärerna som har skurit ut Sarek och gjort det till vad det är i dag. Glaciärerna har skrapat fram de skarpa kammarna och topparna i Sarek. Deras ständiga rörelse producerar bergmjöl som sedan transporteras bort av vattnet. Utan glaciärerna i Sarek skulle inte heller det kända Ráhpaäno suorgudahka, Lájtávrredeltat, finnas.</string>
-    <string name="greenery_text">På kalfjällen växer lavar, mossor, dvärgvide, gräs och örter. I de djupare dalgångerna finns fjällbjörksskogar med ängar med smörboll, nordisk stormhatt och midsommarblomster och på fjällsidorna kan blåbär, dvärgbjörk, vide och en växa.</string>
+    <string name="geo_text">
+        "Man kan säga att det är glaciärerna som har skurit ut Sarek och gjort det till vad det är i dag. Glaciärerna har skrapat fram de skarpa kammarna och topparna i Sarek. Deras ständiga rörelse producerar bergmjöl som sedan transporteras bort av vattnet. Utan glaciärerna i Sarek skulle inte heller det kända Ráhpaäno suorgudahka, Lájtávrredeltat, finnas.\n\n"
+
+        "Det är också isen som har skulpterat de stora dalgångarna och breddat dem och rundat av. Njoatsosvágge i Sarek är ett exempel på en sådan klassisk u-dal där inlandsisen mjukat till formerna. Att det i allmänhet är ett så djärvt landskap beror på bergarten amfibolit, som är särskilt motståndskraftig mot erosion.\n\n"
+
+        "Sarek tillhör de fjäll som bildades där kontinentalplattorna krockade med varandra för några hundra miljoner år sedan. Nya bergarter bildade gränsen mellan det gamla urberget och de nyare fjällberggrunden är tydlig. Vid Skierffe vid porten till Ráhpavuobme ser man den så kallade glinten. Det är platsen där det gamla, flacka urberget möter den dramatiska, nyare fjällberggrunden.\n\n"
+
+        "Spektakulära berg har ofta också varit heliga. En känd offerplats ligger under Skierffe nära sjön Sájvva, som också är ett ord för en helig plats. På väg upp mot Skierffe ligger Aktsegállo, ett jättestort klippblock som frostsprängning har delat. Det sägs att björnar gått i ide här och att nio stycken (aktse på samiska) har dödats av jägare under åren.\n\n"
+
+        "På samiska finns många namn för fjällens olika geologiska formationer. I Boarddemassivet i östra Sarek finns till exempel de två fjälltopparna Stuor Jierttá och Unna Jierttá. Det samiska ordet "jierttá" betyder bland annat ett runt fjäll. Jämfört med andra toppar är de lite runda till formen."
+    </string>
+    <string name="greenery_text">
+        "På kalfjällen och de steniga markerna högt upp växer inte särskilt mycket. Lavar, mossor, dvärgvide och lite gräs och örter trivs i de högalpina delarna av Sarekfjällen.\n\n"
+
+        "Därför blir kontrasten mot dalgångarna i Sarek så stor. I de mest vildvuxna delarna av Ráhpavuobme är det svårt för en vandrare att ta sig fram. Inne i fjällbjörkskogen ligger vackra ängar med höga smörbollar, nordisk stormhatt, midsommarblomster och rödblära.\n\n"
+
+        "På fjällsluttningarna kan man plocka blåbär och vandra genom dvärgbjörk, vide och enbuskar. Eftersom träd är en bristvara på fjället har riset alltid varit eftertraktat för att kunna göra en kaffeeld. Finns det varken enris eller skierre, dvärgbjörk, kan man göra en boll av kråkbärsris och snabbt koka sitt kaffe.\n\n"
+
+        "I södra delen av nationalparken finns lite gles gammelskog med tallar.\n\n"
+
+        "Samerna har använt många av växterna för både mat och medicin, till exempel juobmu, ängssyra och båskkå, kvanne."
+    </string>
     <string name="nature_text">
         "Tre grundläggande förutsättningar är nödvändiga för friluftsliv: tillgång, tillgänglighet och kvalitet. Ett naturområde som ligger nära, är tillgängligt och har hög kvalitet har störst möjligheter att främja friluftsliv i vardagen.\n\n"
 
         "Oklarheter om vad som krävs (lagstiftning) och förväntas (mål) samt komplex ansvarsfördelning medför att friluftslivet ofta blir nedprioriterat inom samhällsplanering och markanvändning. Detta har stor betydelse för tillgången till natur som är attraktiv för friluftsliv."
+
+        "Förutsättningarna för ökad tillgång till natur för friluftsliv förbättras bland annat genom nya vägledningar, målbilder och mer skyddad natur. Länsstyrelsernas friluftssamordnare är en drivande kraft för positiv utveckling. I vilken omfattning detta ger effekt i form av bättre hänsyn till friluftsliv vid samhällsplanering och markanvändning är dock oklart eftersom analys och uppföljning till stor del saknas.\n\n"
+
+        "Det som påverkar den fysiska tillgången till attraktiv natur för friluftsliv är i första hand jord- och skogsbruk samt exploatering för bebyggelse och transportinfrastruktur. I landskapet som helhet kan arealen attraktiv natur antas minska varje år till följd av exploatering och markanvändning av olika slag.\n\n"
+
+        "Detta behöver emellertid inte nödvändigtvis påverka friluftslivet negativt om den fysiska planeringen och markanvändningen gör att det finns tillräckligt med attraktiv natur kvar för att uppfylla friluftslivets behov. Vilka ”behoven av tillgång” är och vad ”tillräckligt attraktiv natur” innebär i praktiken behöver emellertid tydliggöras. Skötseln och brukandet är avgörande för hur attraktiv en naturmiljö är för friluftslivet."
     </string>
     <string name="sapmi_text">
         "Sápmi sträcker sig över hela Nordkalotten samt en stor del av Skandinaviska halvön. Området omfattar delar av Sverige, Norge, Finland och Kolahalvön i Ryssland. Området är totalt ungefär 388 350 km² stort och har en befolkning på totalt 2 317 159 invånare. Antalet samer i området är svåruppskattat, men Samisk informationscentrum uppger att antalet samer i Sápmi är cirka 80 000.\n\n"
